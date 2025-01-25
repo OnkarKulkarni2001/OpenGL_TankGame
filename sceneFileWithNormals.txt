@@ -1,0 +1,36 @@
+number_of_meshes 13
+
+mesh_paths 
+"..\Question1\mazeOuput.ply"
+"..\assets\enemyTankBlue.ply"
+"..\assets\enemyTankNavy.ply"
+"..\assets\playerTank.ply"
+"..\assets\enemyTankPink.ply"
+"..\assets\enemyTankRed.ply"
+"..\assets\enemyTankYellow.ply"
+"..\assets\redSphere.ply"
+"..\assets\FullHealth.ply"
+"..\assets\75Health.ply"
+"..\assets\50Health.ply"
+"..\assets\25Health.ply"
+"..\assets\0Health.ply"
+
+
+// meshTransform layout
+// x y z xScale yScale zScale xRotation yRotation zRotation
+// where rotations are angles.
+
+mesh_transforms
+-100.0 61.0 0.0  1.0 1.0 1.0  0.0 0.0 -90.0
+-13.0 13.0 0.53  0.18 0.18 0.18  180.0 0.0 0.0
+-13.0 43.0 0.53  0.18 0.18 0.18  180.0 0.0 0.0
+-50.0 13.0 0.53  0.18 0.18 0.18  180.0 0.0 0.0
+-50.0 43.0 0.53  0.18 0.18 0.18  180.0 0.0 0.0
+-84.0 43.0 0.53  0.18 0.18 0.18  180.0 0.0 0.0
+-84.0 13.0 0.53  0.18 0.18 0.18  180.0 0.0 0.0
+-50.0 13.0 0.53  0.18 0.18 0.18  180.0 0.0 0.0
+0.0 0.0 0.0  0.1 0.1 0.1  0.0 0.0 0.0
+0.0 0.0 0.0  0.1 0.1 0.1  0.0 0.0 0.0
+0.0 0.0 0.0  0.1 0.1 0.1  0.0 0.0 0.0
+0.0 0.0 0.0  0.1 0.1 0.1  0.0 0.0 0.0
+0.0 0.0 0.0  0.1 0.1 0.1  0.0 0.0 0.0

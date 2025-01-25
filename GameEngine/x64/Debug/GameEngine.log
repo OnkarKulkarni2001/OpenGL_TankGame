@@ -1,0 +1,17 @@
+﻿  FlyCam.cpp
+  Source.cpp
+D:\Graphics1\GameEngine\GameEngine\Source.cpp(95,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Graphics1\GameEngine\GameEngine\Source.cpp(126,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  cAiEnemy.cpp
+  cLightMover.cpp
+  cLoadModels.cpp
+  cLua.cpp
+  cPhysicsUpdated.cpp
+D:\Graphics1\GameEngine\GameEngine\cPhysicsUpdated.cpp(272,38): warning C4018: '<': signed/unsigned mismatch
+D:\Graphics1\GameEngine\GameEngine\cPhysicsUpdated.cpp(273,54): warning C4018: '<': signed/unsigned mismatch
+  cPlayer.cpp
+  cRenderModel.cpp
+  cScene.cpp
+  cVAOManager.cpp
+  Generating Code...
+  GameEngine.vcxproj -> D:\Graphics1\GameEngine\x64\Debug\GameEngine.exe
